@@ -27,8 +27,9 @@ source ~/you-the-champ.zsh || return 0
 *You the Champ* defers all commands in `~/.zshrc`.
 
 There are other tools that allow you to defer zsh initialization: [zinit turbo mode](
-  https://github.com/zdharma/zinit#turbo-and-lucid), [zplug](https://github.com/zplug/zplug),
-[zsh-defer](https://github.com/romkatv/zsh-defer), etc. They the Chumps!
+  https://github.com/zdharma-continuum/zinit#turbo-and-lucid), [zplug](
+  https://github.com/zplug/zplug), [zsh-defer](https://github.com/romkatv/zsh-defer), etc. They the
+Chumps!
 
 *Chumps* require annotating individual commands for deferral. *Champ* defers everything
 automatically.
